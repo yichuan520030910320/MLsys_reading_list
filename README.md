@@ -19,4 +19,30 @@
 15. [Bamboo: Making Preemptible Instances Resilient for Affordable Training of Large DNNs](https://www.usenix.org/conference/nsdi23/presentation/thorpe) NSDI23 UCLA
 16. [Varuna: Scalable, Low-cost Training of Massive Deep Learning Models](https://arxiv.org/pdf/2111.04007.pdf) Eurosys21 MSR
 17. [Swift: Expedited Failure Recovery for Large-scale DNN Training](https://i.cs.hku.hk/~cwu/papers/yczhong-ppopp23-poster.pdf) PPoPP23 HKU
-18. [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dzh5C9EAAAAJ&sortby=pubdate&citation_for_view=Dzh5C9EAAAAJ:SAZ1SQo2q1kC) SOSP23 Umich
+18. [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dzh5C9EAAAAJ&sortby=pubdate&citation_for_view=Dzh5C9EAAAAJ:SAZ1SQo2q1kC) SOSP23 Umich 
+
+
+
+
+
+
+
+
+
+## domain specific system for ML
+
+### Diffusion Model
+
+1.DDPM https://arxiv.org/abs/2006.11239 cannot skip timesteps
+
+2.DDIM https://arxiv.org/abs/2010.02502 can skip timesteps
+
+3.Latent Diffusion Models https://github.com/CompVis/latent-diffusion in latent space rather than pixel space
+
+4.[NSDI24] Approximate Caching for Efficiently Serving Diffusion Models https://arxiv.org/abs/2312.04429
+
+5.LoRA for diffusion model parameter efficient finetune
+
+6.ControlNet https://arxiv.org/abs/2302.05543
+
+7.Video Diffusion Model https://arxiv.org/abs/2204.03458 3D unet More: https://github.com/showlab/Awesome-Video-Diffusion
