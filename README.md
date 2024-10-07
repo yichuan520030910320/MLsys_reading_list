@@ -27,7 +27,7 @@
 
 ### MCTS powered LLM
 
-## Algorithmn
+# Algorithmn
 
 1. MCTSr: https://arxiv.org/html/2406.07394v1  Code: https://github.com/trotsky1997/MathBlackBox
 
@@ -39,7 +39,7 @@
 
 
 ### Diffusion Model System
-## Model
+# Model
 1.DDPM https://arxiv.org/abs/2006.11239 cannot skip timesteps
 
 2.DDIM https://arxiv.org/abs/2010.02502 can skip timesteps
