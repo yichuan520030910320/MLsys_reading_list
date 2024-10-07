@@ -31,7 +31,7 @@
 
 1. MCTSr: https://arxiv.org/html/2406.07394v1  Code: https://github.com/trotsky1997/MathBlackBox
 
-2. Rest MCTS ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search THU NIPS24
+2. Rest MCTS ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search THU NIPS24 code: https://github.com/THUDM/ReST-MCTS
 
 3. SC-MCTS https://arxiv.org/abs/2410.01707 new lol THU
 
