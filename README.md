@@ -22,7 +22,15 @@
 18. [Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Dzh5C9EAAAAJ&sortby=pubdate&citation_for_view=Dzh5C9EAAAAJ:SAZ1SQo2q1kC) SOSP23 Umich 
 
 
+### LLM Program
 
+# system
+1. CUHK https://arxiv.org/pdf/2407.00326 Optimize LLM application
+
+
+### New Recommendation system
+
+1. Actions Speak Louder than Words: Trillion-Parameter Sequential Transducers for Generative Recommendations (HSTU Meta new recsys linear and attention mixed)
 
 
 ### MCTS powered LLM
