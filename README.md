@@ -44,7 +44,9 @@
 3. SC-MCTS https://arxiv.org/abs/2410.01707 new lol THU
 
 
+## LLM for Video Understanding
 
+1. repo : https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding
 
 ### Diffusion Model System
 #### Model
