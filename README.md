@@ -1,5 +1,11 @@
 # MLsys_reading_list
 ### RAG
+#### COT+RAG
+
+#### Scaling
+
+#### RAG system paper
+
 
 ### Fault tolerance
 
