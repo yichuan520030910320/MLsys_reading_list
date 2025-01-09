@@ -47,8 +47,9 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 #### Retriever?
 1.Sufficient Context: A New Lens on Retrieval Augmented Generation Systems--> https://arxiv.org/abs/2411.06037
 
+2.LLM-Augmented Retrieval: Enhancing Retrieval Models Through Language Models and Doc-Level Embedding https://openreview.net/forum?id=7yncrX80CN
 #### Chat and RAG
-1.ChatQA:https://arxiv.org/pdf/2401.10225 NIPS high score NVIDIA
+1.ChatQA:https://arxiv.org/pdf/2401.10225 NIPS high score NVIDIA Followed bt ChatQA2
 
 #### Multimodal
 1.VisRAG:https://arxiv.org/abs/2410.10594
