@@ -4,6 +4,8 @@
 1.RAT:(COT+RAG) PKU--> https://arxiv.org/html/2403.05313v1
 
 2.PlanxRAG: MSR---> https://arxiv.org/pdf/2410.20753
+
+3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models
 #### Scaling
 1.Inference Scaling for Long-Context Retrieval Augmented Generation : Deepmind-->https://arxiv.org/abs/2410.04343 high score in iclr
 
@@ -12,6 +14,47 @@
 1.Cornell:Towards Understanding Systems Trade-offs in Retrieval-Augmented Generation Model Inference-->https://arxiv.org/abs/2412.11854
 
 2.juncheng&Ravi: RAGserve-->https://arxiv.org/html/2412.10543v1
+
+3.EdgeRAG: https://arxiv.org/pdf/2412.21023
+#### New Algorithm
+1. Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
+
+#### Grounding & Trustworthy
+1.Trust align rag: 888 in iclr-->https://arxiv.org/pdf/2409.11242
+
+2.ReDeEP: Detecting Hallucination in Retrieval-Augmented Generation via Mechanistic Interpretability https://arxiv.org/abs/2410.11414 7.33 in ICLR24
+
+3.ENHANCING LARGE LANGUAGE MODELS’ SITUATED FAITHFULNESS TO EXTERNAL CONTEXTS:https://arxiv.org/abs/2410.14675 (when LLM meet wrong context)
+
+#### GraphRAG and Knowledge Graph Related
+1.STructRAG: https://arxiv.org/abs/2410.08815
+
+2.GraphCOT:https://arxiv.org/abs/2404.07103
+
+3.Benchmark:MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions  https://openreview.net/forum?id=GGlpykXDCa 888 iclr24
+
+4.SIRERAG: INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING:https://arxiv.org/abs/2412.06206 
+#### When Long context meets RAG
+1.RankRAG by Nvidia: high score in nips24: https://arxiv.org/abs/2407.02485
+
+2.Accelerating Inference of Retrieval-Augmented Generation via Sparse Context Selection:-->https://arxiv.org/abs/2405.16178
+
+related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and robust context pruning for retrieval-augmented generation (Prune for RAG)
+
+3.Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG--> DeepMind JiaWei: https://arxiv.org/abs/2410.05983
+
+4.https://www.databricks.com/blog/author/quinn-leng Databricks Tech Report
+#### Retriever?
+1.Sufficient Context: A New Lens on Retrieval Augmented Generation Systems--> https://arxiv.org/abs/2411.06037
+
+#### Chat and RAG
+1.ChatQA:https://arxiv.org/pdf/2401.10225 NIPS high score NVIDIA
+
+#### Multimodal
+1.VisRAG:https://arxiv.org/abs/2410.10594
+
+### 
+
 ### Fault tolerance
 
 1. Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters
