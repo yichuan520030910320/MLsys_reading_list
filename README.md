@@ -17,7 +17,7 @@
 
 3.EdgeRAG: https://arxiv.org/pdf/2412.21023
 #### New Algorithm
-1. Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
+1.Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
 
 #### Grounding & Trustworthy
 1.Trust align rag: 888 in iclr-->https://arxiv.org/pdf/2409.11242
