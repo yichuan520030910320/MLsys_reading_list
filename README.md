@@ -2,12 +2,15 @@
 ### RAG
 #### COT+RAG
 1.RAT:(COT+RAG) PKU--> https://arxiv.org/html/2403.05313v1
+
 2.PlanxRAG: MSR---> https://arxiv.org/pdf/2410.20753
 #### Scaling
 1.Inference Scaling for Long-Context Retrieval Augmented Generation : Deepmind-->https://arxiv.org/abs/2410.04343 high score in iclr
+
 2.Scaling Retrieval-Based Language Models with a Trillion-Token Datastore: UW rulin shao-->https://arxiv.org/abs/2407.12854
 #### RAG system paper
 1.Cornell:Towards Understanding Systems Trade-offs in Retrieval-Augmented Generation Model Inference-->https://arxiv.org/abs/2412.11854
+
 2.juncheng&Ravi: RAGserve-->https://arxiv.org/html/2412.10543v1
 ### Fault tolerance
 
