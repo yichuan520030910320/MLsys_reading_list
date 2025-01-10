@@ -70,9 +70,9 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 2.https://arxiv.org/pdf/2307.06940 Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation
 #### vector database related:
 1.DiskANN : DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node -->https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf Graph Based Method
-
+HNSW:https://arxiv.org/abs/1603.09320
 2.IVF paper Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors-->https://arxiv.org/abs/1802.02422
-
+old ICF: original one-->Inverted files for text search engines
 3.Dynamic Update IVF:Incremental IVF Index Maintenance for Streaming Vector Search https://arxiv.org/abs/2411.00970
 
 #### IR retriever Alg:
