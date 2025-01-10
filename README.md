@@ -6,6 +6,8 @@
 2.PlanxRAG: MSR---> https://arxiv.org/pdf/2410.20753
 
 3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models
+
+4.RAG-Star:https://arxiv.org/abs/2412.12881
 #### Scaling
 1.Inference Scaling for Long-Context Retrieval Augmented Generation : Deepmind-->https://arxiv.org/abs/2410.04343 high score in iclr
 
@@ -34,6 +36,8 @@
 3.Benchmark:MMQA: Evaluating LLMs with Multi-Table Multi-Hop Complex Questions  https://openreview.net/forum?id=GGlpykXDCa 888 iclr24
 
 4.SIRERAG: INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING:https://arxiv.org/abs/2412.06206 
+
+5.GraphRAG:https://github.com/microsoft/graphrag NanoGraphRAG:https://github.com/gusye1234/nano-graphrag
 #### When Long context meets RAG
 1.RankRAG by Nvidia: high score in nips24: https://arxiv.org/abs/2407.02485
 
@@ -54,8 +58,16 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 #### Multimodal
 1.VisRAG:https://arxiv.org/abs/2410.10594
 
-### 
+2.https://arxiv.org/pdf/2307.06940 Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation
+#### vector database related:
+1.DiskANN : DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node -->https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf Graph Based Method
 
+2.IVF paper Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors-->https://arxiv.org/abs/1802.02422
+
+3.Dynamic Update IVF:Incremental IVF Index Maintenance for Streaming Vector Search https://arxiv.org/abs/2411.00970
+
+#### IR retriever Alg:
+1.Colbert: https://arxiv.org/abs/2004.12832 and Colbertv2:https://arxiv.org/abs/2112.01488 and PLAID:https://arxiv.org/abs/2205.09707
 ### Fault tolerance
 
 1. Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters
