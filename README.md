@@ -27,6 +27,7 @@
 #### New Algorithm
 1.Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
 
+2.RAG 2.0: https://contextual.ai/introducing-rag2/
 #### Grounding & Trustworthy
 1.Trust align rag: 888 in iclr-->https://arxiv.org/pdf/2409.11242
 
