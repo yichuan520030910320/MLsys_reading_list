@@ -18,6 +18,12 @@
 2.juncheng&Ravi: RAGserve-->https://arxiv.org/html/2412.10543v1
 
 3.EdgeRAG: https://arxiv.org/pdf/2412.21023
+
+4.RAGcache xin jin: https://arxiv.org/pdf/2404.12457
+
+5.RAG+ spec infer zhihao jia:https://arxiv.org/abs/2401.14021
+
+6.PipeRAG:https://arxiv.org/abs/2403.05676
 #### New Algorithm
 1.Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
 
