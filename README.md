@@ -57,7 +57,9 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 #### Retriever?
 1.Sufficient Context: A New Lens on Retrieval Augmented Generation Systems--> https://arxiv.org/abs/2411.06037
 
-2.LLM-Augmented Retrieval: Enhancing Retrieval Models Through Language Models and Doc-Level Embedding https://openreview.net/forum?id=7yncrX80CN
+2.LLM-Augmented Retrieval: Enhancing Retrieval Models Through Language Models and Doc-Level Embedding https://openreview.net/forum?id=7yncrX80CN--> use LLM to argument embedding model like colbertv2
+
+3.NV embedd: https://arxiv.org/abs/2405.17428
 #### Chat and RAG
 1.ChatQA:https://arxiv.org/pdf/2401.10225 NIPS high score NVIDIA Followed bt ChatQA2
 
