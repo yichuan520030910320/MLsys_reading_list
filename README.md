@@ -8,6 +8,9 @@
 3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models
 
 4.RAG-Star:https://arxiv.org/abs/2412.12881
+#### Agentic RAG:
+1.https://github.com/sunnynexus/Search-o1
+
 #### Scaling
 1.Inference Scaling for Long-Context Retrieval Augmented Generation : Deepmind-->https://arxiv.org/abs/2410.04343 high score in iclr
 
