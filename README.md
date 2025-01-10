@@ -77,6 +77,9 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 
 #### IR retriever Alg:
 1.Colbert: https://arxiv.org/abs/2004.12832 and Colbertv2:https://arxiv.org/abs/2112.01488 and PLAID:https://arxiv.org/abs/2205.09707
+
+#### GOOD Survey
+1.Danqi Luke: https://arxiv.org/pdf/2403.03187
 ### Fault tolerance
 
 1. Mitigating Stragglers in the Decentralized Training on Heterogeneous Clusters
