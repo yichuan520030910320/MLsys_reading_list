@@ -51,6 +51,10 @@ conference on machine learning --> https://arxiv.org/abs/2112.04426 Deepmind
 4.SIRERAG: INDEXING SIMILAR AND RELATED INFORMATION FOR MULTIHOP REASONING:https://arxiv.org/abs/2412.06206 
 
 5.GraphRAG:https://github.com/microsoft/graphrag NanoGraphRAG:https://github.com/gusye1234/nano-graphrag
+
+#### RAG+Coder
+1.CodeRAG-Bench: Can Retrieval Augment Code Generation? https://arxiv.org/abs/2406.14497
+2.https://arxiv.org/abs/2406.07003 Graphcoder
 #### When Long context meets RAG
 1.RankRAG by Nvidia: high score in nips24: https://arxiv.org/abs/2407.02485
 
