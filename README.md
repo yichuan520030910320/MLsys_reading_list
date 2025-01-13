@@ -27,6 +27,9 @@
 5.RAG+ spec infer zhihao jia:https://arxiv.org/abs/2401.14021
 base: in context retrieval augment generation https://arxiv.org/abs/2302.00083
 6.PipeRAG:https://arxiv.org/abs/2403.05676
+base: improving language models
+by retrieving from trillions of tokens. In International
+conference on machine learning --> https://arxiv.org/abs/2112.04426 Deepmind
 #### New Algorithm
 1.Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
 
