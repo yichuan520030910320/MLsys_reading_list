@@ -30,6 +30,8 @@ base: in context retrieval augment generation https://arxiv.org/abs/2302.00083
 base: improving language models
 by retrieving from trillions of tokens. In International
 conference on machine learning --> https://arxiv.org/abs/2112.04426 Deepmind
+#### Best Practice of RAG
+1. Enhancing Retrieval-Augmented Generation: A Study of Best Practices: https://arxiv.org/pdf/2501.07391
 #### New Algorithm
 1.Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
 
