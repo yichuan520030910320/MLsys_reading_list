@@ -1,5 +1,11 @@
 # MLsys_reading_list
 ### RAG
+
+#### Interesting Repo
+
+1.https://github.com/NirDiamant/RAG_Techniques
+
+2.https://github.com/athina-ai/rag-cookbooks
 #### COT+RAG
 1.RAT:(COT+RAG) PKU--> https://arxiv.org/html/2403.05313v1
 
