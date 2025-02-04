@@ -14,6 +14,10 @@
 3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models
 
 4.RAG-Star:https://arxiv.org/abs/2412.12881
+
+#### Parametric RAG
+1. Parametric Retrieval Augmented Generation https://arxiv.org/pdf/2501.15915
+
 #### RAG on KVcache
 1.https://arxiv.org/html/2407.01178v1 Memory3: Language Modeling with Explicit Memory
 
