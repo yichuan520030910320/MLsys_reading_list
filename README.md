@@ -21,6 +21,8 @@
 1.Inference Scaling for Long-Context Retrieval Augmented Generation : Deepmind-->https://arxiv.org/abs/2410.04343 high score in iclr
 
 2.Scaling Retrieval-Based Language Models with a Trillion-Token Datastore: UW rulin shao-->https://arxiv.org/abs/2407.12854
+
+3. https://arxiv.org/pdf/2412.18069 online large scale RAG: https://arxiv.org/pdf/2412.18069 (Rulin)
 #### RAG system paper
 1.Cornell:Towards Understanding Systems Trade-offs in Retrieval-Augmented Generation Model Inference-->https://arxiv.org/abs/2412.11854
 
