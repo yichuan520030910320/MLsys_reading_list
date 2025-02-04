@@ -14,6 +14,13 @@
 3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models
 
 4.RAG-Star:https://arxiv.org/abs/2412.12881
+#### RAG on KVcache
+1.https://arxiv.org/html/2407.01178v1 Memory3: Language Modeling with Explicit Memory
+
+2.https://arxiv.org/html/2412.15605v1 CAT
+
+seems no killing app, can't beat full attention, and also not efficient as RAG
+
 #### Agentic RAG:
 1.https://github.com/sunnynexus/Search-o1
 
@@ -22,7 +29,7 @@
 
 2.Scaling Retrieval-Based Language Models with a Trillion-Token Datastore: UW rulin shao-->https://arxiv.org/abs/2407.12854
 
-3. https://arxiv.org/pdf/2412.18069 online large scale RAG: https://arxiv.org/pdf/2412.18069 (Rulin)
+3. https://arxiv.org/pdf/2412.18069 online large scale RAG: Improving Factuality with Explicit Working Memory (Rulin)
 #### RAG system paper
 1.Cornell:Towards Understanding Systems Trade-offs in Retrieval-Augmented Generation Model Inference-->https://arxiv.org/abs/2412.11854
 
