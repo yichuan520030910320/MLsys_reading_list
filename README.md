@@ -54,6 +54,8 @@ conference on machine learning --> https://arxiv.org/abs/2112.04426 Deepmind
 Applications https://arxiv.org/pdf/2407.00326 
 #### Best Practice of RAG
 1. Enhancing Retrieval-Augmented Generation: A Study of Best Practices: https://arxiv.org/pdf/2501.07391
+2.Searching for Best Practices in Retrieval-Augmented
+Generation https://arxiv.org/pdf/2407.01219 
 #### New Algorithm
 1.Self RAG: https://arxiv.org/abs/2310.11511 400+ citation
 
