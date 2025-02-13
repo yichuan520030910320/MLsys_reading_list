@@ -6,6 +6,11 @@
 1.https://github.com/NirDiamant/RAG_Techniques
 
 2.https://github.com/athina-ai/rag-cookbooks
+
+#### RL+RAG
+1. Grounding by Trying: LLMs with Reinforcement Learning-Enhanced Retrieval https://arxiv.org/html/2410.23214v2
+
+   
 #### COT+RAG
 1.RAT:(COT+RAG) PKU--> https://arxiv.org/html/2403.05313v1
 
