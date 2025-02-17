@@ -16,7 +16,7 @@
 
 2.PlanxRAG: MSR---> https://arxiv.org/pdf/2410.20753
 
-3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models
+3.https://arxiv.org/pdf/2410.01782 --> OPEN-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models(runlin recommend iterative RAG system)
 
 4.RAG-Star:https://arxiv.org/abs/2412.12881
 
@@ -96,6 +96,8 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 3.Long-Context LLMs Meet RAG: Overcoming Challenges for Long Inputs in RAG--> DeepMind JiaWei: https://arxiv.org/abs/2410.05983
 
 4.https://www.databricks.com/blog/author/quinn-leng Databricks Tech Report
+
+5.https://arxiv.org/abs/2502.05252 GSM-Infinite: How Do Your LLMs Behave over Infinitely Increasing Context Length and Reasoning Complexity? from CMU beidi 
 #### Retriever?
 1.Sufficient Context: A New Lens on Retrieval Augmented Generation Systems--> https://arxiv.org/abs/2411.06037
 
