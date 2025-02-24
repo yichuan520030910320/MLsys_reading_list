@@ -56,7 +56,12 @@ by retrieving from trillions of tokens. In International
 conference on machine learning --> https://arxiv.org/abs/2112.04426 Deepmind
 
 7. Teola: Towards End-to-End Optimization of LLM-based
-Applications https://arxiv.org/pdf/2407.00326 
+Applications https://arxiv.org/pdf/2407.00326
+#### KV cache management for RAG
+1.Cache Blend
+
+2.Cache Craft https://skejriwal44.github.io/docs/CacheCraft_SIGMOD_2025.pdf 
+
 #### Best Practice of RAG
 1. Enhancing Retrieval-Augmented Generation: A Study of Best Practices: https://arxiv.org/pdf/2501.07391
 2.Searching for Best Practices in Retrieval-Augmented
