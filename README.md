@@ -57,6 +57,9 @@ conference on machine learning --> https://arxiv.org/abs/2112.04426 Deepmind
 
 7. Teola: Towards End-to-End Optimization of LLM-based
 Applications https://arxiv.org/pdf/2407.00326
+
+8.https://www.arxiv.org/abs/2502.20969 Tele RAG Look ahead RAG
+
 #### KV cache management for RAG
 1.Cache Blend
 
@@ -122,9 +125,13 @@ related:https://openreview.net/forum?id=TDy5Ih78b4-->Provence: efficient and rob
 #### Vector database related:
 1.DiskANN : DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node -->https://papers.nips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf Graph Based Method
 HNSW:https://arxiv.org/abs/1603.09320
+
 2.IVF paper Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors-->https://arxiv.org/abs/1802.02422
 old ICF: original one-->Inverted files for text search engines
+
 3.Dynamic Update IVF:Incremental IVF Index Maintenance for Streaming Vector Search https://arxiv.org/abs/2411.00970
+
+4.SPANN:https://arxiv.org/abs/2111.08566
 
 #### IR retriever Alg:
 1.Colbert: https://arxiv.org/abs/2004.12832 and Colbertv2:https://arxiv.org/abs/2112.01488 and PLAID:https://arxiv.org/abs/2205.09707
