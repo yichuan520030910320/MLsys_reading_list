@@ -60,6 +60,7 @@ Applications https://arxiv.org/pdf/2407.00326
 
 8.https://www.arxiv.org/abs/2502.20969 Tele RAG Look ahead RAG
 
+9. ASPLOS 2025 https://arxiv.org/pdf/2412.15246 RAG accleration
 #### KV cache management for RAG
 1.Cache Blend
 
